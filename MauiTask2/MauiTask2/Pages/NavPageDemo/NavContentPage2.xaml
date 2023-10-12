@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiTask2.Pages.NavPageDemo.NavContentPage2"
+             Title="NavContentPage2"
+             BackgroundColor="Green">
+    <VerticalStackLayout>
+        <Label 
+            Text="This is Content Page 2"
+            FontSize="20"
+            FontAttributes="Bold"
+            TextColor="Blue"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"/>
+
+        <Button 
+            x:Name="NavContentPage3Button"
+            Text="Open Content Page 3"
+                Margin="20"
+            Clicked="NavContentPage3Button_Clicked">
+        </Button>
+
+        <Button 
+            x:Name="CloseButton"
+            Text="Close"
+            Margin="20"
+            Clicked="ClosedButton_Clicked">
+        </Button>
+
+    </VerticalStackLayout>
+</ContentPage>

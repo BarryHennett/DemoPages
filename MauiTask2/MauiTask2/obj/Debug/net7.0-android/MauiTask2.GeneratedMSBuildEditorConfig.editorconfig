@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = MauiTask2
+build_property.ProjectDir = C:\Users\harra\Desktop\Term 4\MauiTask2\MauiTask2\
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Pages/ContentPagesDemo/DemoContentPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Pages.ContentPagesDemo.DemoContentPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ContentPagesDemo\DemoContentPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ContentPagesDemo\DemoContentPage1.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Pages/ContentPagesDemo/DemoContentPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Pages.ContentPagesDemo.DemoContentPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ContentPagesDemo\DemoContentPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ContentPagesDemo\DemoContentPage2.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Pages/ContentPagesDemo/DemoContentPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Pages.ContentPagesDemo.DemoContentPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ContentPagesDemo\DemoContentPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ContentPagesDemo\DemoContentPage3.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Pages/FlyOutPageDemo/DemoFlyoutPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Pages.FlyOutPageDemo.DemoFlyoutPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlyOutPageDemo\DemoFlyoutPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlyOutPageDemo\DemoFlyoutPage1.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Pages/NavPageDemo/NavContentPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Pages.NavPageDemo.NavContentPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavPageDemo\NavContentPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavPageDemo\NavContentPage1.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Pages/NavPageDemo/NavContentPage2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Pages.NavPageDemo.NavContentPage2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavPageDemo\NavContentPage2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavPageDemo\NavContentPage2.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Pages/NavPageDemo/NavContentPage3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Pages.NavPageDemo.NavContentPage3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\NavPageDemo\NavContentPage3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\NavPageDemo\NavContentPage3.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Pages/TabbedPageDemo/DemoTabbedPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Pages.TabbedPageDemo.DemoTabbedPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TabbedPageDemo\DemoTabbedPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TabbedPageDemo\DemoTabbedPage1.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/harra/Desktop/Term 4/MauiTask2/MauiTask2/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiTask2.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

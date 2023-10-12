@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiTask2.Pages.TabbedPageDemo.DemoTabbedPage1"
+             Title="DemoTabbedPage1"
+            SelectedTabColor="Red"
+            UnselectedTabColor="Blue"
+            BarBackgroundColor="Grey"
+            BarTextColor="Green">
+            
+    <ContentPage Title="Home" IconImageSource="dotnet_bot.svg">
+        <Label Text="This is Home Content Page"
+               Margin="20"
+               FontAttributes="Bold"
+               FontSize="20"/>
+    </ContentPage>
+
+    <ContentPage Title="Cart" IconImageSource="dotnet_bot.svg">
+        <Label Text="This is Cart Content Page"
+               Margin="20"
+               FontAttributes="Bold"
+               FontSize="20"/>
+    </ContentPage>
+
+    <ContentPage Title="Profile" IconImageSource="dotnet_bot.svg">
+        <Label Text="This is Profile Content Page"              
+               Margin="20"
+               FontAttributes="Bold"
+               FontSize="20"/>
+    </ContentPage>
+</TabbedPage>
